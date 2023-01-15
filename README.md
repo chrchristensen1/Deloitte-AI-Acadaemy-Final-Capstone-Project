@@ -1,4 +1,4 @@
-# ![](https://petersonhealthcare.org/sites/default/files/styles/only_hash/public/images/callout_images/callout_auhc_0.jpg?itok=Aj0xlL60)
+# ![CAD](https://petersonhealthcare.org/sites/default/files/styles/only_hash/public/images/callout_images/callout_auhc_0.jpg?itok=Aj0xlL60)
 
 # Detection of Coronary Heart Disease in Adults Using a Random Forest Classifier.
 
@@ -30,8 +30,6 @@ Accuracy: 90.54
 
 F2 Score: 32.09   
 
-
-
 True Negatives: 1187
 
 False Negatives: 25
@@ -47,8 +45,6 @@ True Positives: 19
 Accuracy: 94.97                                 
 
 F2 Score: 40.08  
-
-
 
 True Negatives: 1246
 
@@ -66,8 +62,6 @@ Accuracy: 96.02
 
 F2 Score: 32.86 
 
-  
-
 True Negatives: 1265
 
 False Negatives: 30
@@ -84,8 +78,6 @@ Accuracy: 93.24
 
 F2 Score: 44.44
 
-
-
 True Negatives: 1218
 
 False Negatives: 20
@@ -98,4 +90,52 @@ True Positives: 24
 
 ## Conclusion
 
+The Random Forest Classifier performed the best based on the models F2 Score. And as stated previously, the F2 score takes into account both precision and recall with more weight on recall, thus minamizing false positives and negatives with greater emphasis on minimizing false negatives. 
+
 ## Repository Navigation
+
+The Github repository is organized into 7 main folders: Data, Final Deliverables, Images, Notebooks, Other, Presentation, and Resources.
+
+### [Data](https://github.com/chrchristensen1/Deloitte-AI-Acadaemy-Final-Capstone-Project/tree/main/Data)
+
+The Data Folder contains the following folders:
+
+[Cleaned Data](https://github.com/chrchristensen1/Deloitte-AI-Acadaemy-Final-Capstone-Project/tree/main/Data/Cleaned%20Data "Cleaned Data")
+
+[NHANES CSVs](https://github.com/chrchristensen1/Deloitte-AI-Acadaemy-Final-Capstone-Project/tree/main/Data/NHANES%20CSVs "NHANES CSVs")
+
+[NHANES SQLite DBs](https://github.com/chrchristensen1/Deloitte-AI-Acadaemy-Final-Capstone-Project/tree/main/Data/NHANES%20SQLite%20DBs "NHANES SQLite DBs")
+
+[Other CSVs](https://github.com/chrchristensen1/Deloitte-AI-Acadaemy-Final-Capstone-Project/tree/main/Data/Other%20CSVs "Other CSVs")
+
+####[Final Deliverables]((https://github.com/chrchristensen1/Deloitte-AI-Acadaemy-Final-Capstone-Project/tree/main/Final%20Deliverables))
+
+The Final Deliverables folder contains the following items:
+
+[Final Notebook](https://github.com/chrchristensen1/Deloitte-AI-Acadaemy-Final-Capstone-Project/blob/main/Final%20Deliverables/Final%20Notebook.ipynb)
+
+[Final Presentation PDF](https://github.com/chrchristensen1/Deloitte-AI-Acadaemy-Final-Capstone-Project/blob/main/Final%20Deliverables/Presentation.pdf)
+
+#### [Images](https://github.com/chrchristensen1/Deloitte-AI-Acadaemy-Final-Capstone-Project/tree/main/Images)
+
+Contains images related to the project
+
+#### [Notebooks](https://github.com/chrchristensen1/Deloitte-AI-Acadaemy-Final-Capstone-Project/tree/main/Notebooks)
+
+Contains Various Notebooks used during the Data Exploration, Preparation, and Modeling phases
+
+#### [Other](https://github.com/chrchristensen1/Deloitte-AI-Acadaemy-Final-Capstone-Project/tree/main/Other)
+
+Contains the Project Proposal
+
+#### [Presentation]((https://github.com/chrchristensen1/Deloitte-AI-Acadaemy-Final-Capstone-Project/tree/main/Presentation)
+
+Contains both the Presentation Power Point and Presentaion PDF
+
+#### [NHANES Resources](https://github.com/chrchristensen1/Deloitte-AI-Acadaemy-Final-Capstone-Project/tree/main/Resources)
+
+Contains various resources related to the NHANES Data
+
+
+
+
